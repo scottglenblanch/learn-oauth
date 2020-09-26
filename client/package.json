@@ -1,0 +1,15 @@
+{
+  "name": "authorization-server",
+  "version": "0.0.1",
+  "description": "Client for Oauth Example",
+  "main": "index.js",
+  "author": "Scott Blanch",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node ./src/index.js"
+  }
+}
